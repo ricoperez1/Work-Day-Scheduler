@@ -2,11 +2,12 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-color: tan;
   }
 
   /*text area*/
   textarea {
-    background: transparent;
+    background: rgb(209, 172, 124);
     border: none;
     resize: none;
     color: #000000;
@@ -53,7 +54,7 @@ body {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #06aed5;
+    background-color: pink;
     color: white;
     padding: top 22px;
   }
